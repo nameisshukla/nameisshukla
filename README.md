@@ -1,8 +1,8 @@
 # Hi 👋, I'm Aman Shukla
 
 🚀 Full Stack Developer | MERN Stack Enthusiast | Aspiring AI Engineer
-
-I am a recent Information Technology graduate passionate about building scalable web applications and exploring AI-powered solutions.
+Software Developer focused on MERN Stack & Core Java,passionate about building scalable web applications and exploring AI-powered solutions.
+Open to Frontend & Backend & Full Stack opportunities
 
 ## 💻 Tech Stack
 
